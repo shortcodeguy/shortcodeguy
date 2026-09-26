@@ -77,5 +77,6 @@ Learning, experimenting, and building continuously. Projects are treated as ongo
 ### Contact & Links
 
 * **GitHub**: [@shortcodeguy](https://github.com/shortcodeguy)
+* **Email**: [shortcodeguystudio@gmail.com](mailto:shortcodeguystudio.netlify.app)
 * **Website**: [shortcodeguystudio.netlify.app](https://shortcodeguystudio.netlify.app)
 * **BlazeLang Documentation**: [blazelang.web.app](https://blazelang.web.app)
