@@ -1,67 +1,81 @@
-<div align="center">
+# Rohit Raj — ShortCodeGuy
 
-# Hi there, I'm ShortCodeGuy 👋 ⚡
-### Founder & Developer at **ShortCodeGuy Studio**
-*Building Programming Languages, AI Systems, Game Engines & Developer Tools*
+**Founder & Developer at ShortCodeGuy Studio**
 
-[![Website](https://img.shields.io/badge/Website-shortcodeguystudio.netlify.app-blue?style=for-the-badge&logo=netlify)](https://shortcodeguystudio.netlify.app)
-[![GitHub](https://img.shields.io/badge/GitHub-shortcodeguy-181717?style=for-the-badge&logo=github)](https://github.com/shortcodeguy)
+Independent developer building programming languages, AI systems, developer tools, web applications, games, and experimental software.
 
 ---
 
-</div>
+## Overview
 
-## 🚀 About Me
-
-- 🏢 **Founder & Lead Architect** at **ShortCodeGuy Studio**
-- 🛠️ Creator of **BlazeLang** (Custom Programming Language), **BLZ AI**, & **BlazeForge 2D Engine**
-- 💡 Passionate about Low-Level Systems, Compiler Design, Artificial Intelligence & Game Development
-- 💻 Building high-performance developer tools, frameworks, and software architectures
+My primary technical focus centers on **programming language development, C++ systems programming, AI/ML, mathematics, and developer tooling**. I enjoy building software systems from first principles to explore deep integrations between programming language design and artificial intelligence.
 
 ---
 
-## ⚡ Featured Projects
+## ShortCodeGuy Studio
 
-| Project | Description | Status |
+**ShortCodeGuy Studio** is an independent software development studio focused on building original technology projects.
+
+### Key Projects
+
+| Project | Description | Scope & Focus |
 | :--- | :--- | :--- |
-| 🚀 [**BlazeLang**](https://github.com/shortcodeguy/BlazeLang) | High-performance custom programming language designed for speed and developer productivity. | Active Development |
-| 🤖 [**BlazeAI**](https://github.com/shortcodeguy/BlazeAI) | AI System & Intelligent Automation Framework. | Active Development |
-| 🎮 [**BlazeForge 2D Engine**](https://github.com/shortcodeguy/BlazeForge-2d_Game_Engine) | A lightweight 2D game engine built with Python for fast game prototyping. | Open Source |
+| **BlazeLang** | High-performance programming language featuring a C++ native runtime, package manager, and built-in AI/math capabilities. | Core Ecosystem |
+| **BlazeAI** | AI/ML initiatives exploring local execution and custom trainable model architectures. | Artificial Intelligence |
+| **PM Math** | Mathematics computation and learning platform featuring NCERT-aligned content and AI tutoring tools. | EdTech & Scientific Computing |
+| **Blaze Chat** | Real-time messaging platform built with modern web technologies and Firebase infrastructure. | Web Systems |
+| **Blaze Games** | Lightweight multiplayer gaming platform featuring real-time state synchronization. | Interactive Software |
+| **NeuraLang** | Experimental programming language investigating first-class neural network primitives. | Language Research |
+| **NeuraAS** | Advanced AI and software architecture experiments within the ShortCodeGuy ecosystem. | Systems Research |
 
 ---
 
-## 🛠️ Tech Stack & Tools
+## BlazeLang Architecture
 
-**Languages & Systems:**
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Bash/Shell](https://img.shields.io/badge/Shell_Script-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+BlazeLang represents a core long-term engineering effort.
 
-**Domains & Frameworks:**
-![Compiler Design](https://img.shields.io/badge/Compiler_Design-FF6F00?style=for-the-badge)
-![AI & ML](https://img.shields.io/badge/AI_%26_Machine_Learning-008080?style=for-the-badge)
-![Game Engines](https://img.shields.io/badge/2D_Game_Engines-61DAFB?style=for-the-badge)
-![Git & GitHub](https://img.shields.io/badge/Git_%26_GitHub-F05032?style=for-the-badge&logo=git&logoColor=white)
+The project evolved from an initial Python prototype into a **C++-based native implementation**, designed for fast execution, minimal overhead, and extensibility.
+
+### Key Ecosystem Components:
+* **Native Runtime**: C++ interpreter and execution core.
+* **Integrated Capabilities**: Native HTTP networking, mathematical computing modules, and AI primitives without relying entirely on external frameworks.
+* **Developer Tooling**: Built-in package manager, test runner, and package registry infrastructure.
 
 ---
 
-## 📊 GitHub Analytics
+## Technologies & Core Competencies
 
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=shortcodeguy&show_icons=true&theme=dark&hide_border=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shortcodeguy&layout=compact&theme=dark&hide_border=true" />
-
-</div>
+* **Languages**: C++, Python, JavaScript, HTML, CSS, BlazeLang
+* **Technical Domains**:
+  * Programming language development & runtimes
+  * C++ systems programming
+  * Artificial intelligence & machine learning (Local AI, Neural Networks)
+  * Web application development
+  * Mathematics & scientific computing
+  * Game development & interactive software
+  * Developer tools & software architecture
+  * Performance optimization & open-source software
 
 ---
 
-<div align="center">
+## Development Philosophy
 
-### 🌐 Connect with ShortCodeGuy Studio
-[Visit Official Website](https://shortcodeguystudio.netlify.app) • [GitHub Profile](https://github.com/shortcodeguy)
+> *"Building rather than just talking about ideas."*
 
-*“Code fast, build faster.”*
+Projects are executed as deep engineering experiments to understand software systems from the inside out — from parsers and runtimes to native C++ systems, neural models, web architectures, and package distribution. Software is continuously tested, benchmarked, and redesigned whenever an architectural boundary is reached.
 
-</div>
+---
+
+## Current Focus & Status
+
+Learning, experimenting, and building continuously. Projects are treated as ongoing engineering research rather than static products, allowing for continuous refinement, testing, and redesign.
+
+**Built in India. Built from curiosity.**
+
+---
+
+### Contact & Links
+
+* **GitHub**: [@shortcodeguy](https://github.com/shortcodeguy)
+* **Website**: [shortcodeguystudio.netlify.app](https://shortcodeguystudio.netlify.app)
+* **BlazeLang Documentation**: [blazelang.web.app](https://blazelang.web.app)
