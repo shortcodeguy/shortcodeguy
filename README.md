@@ -20,13 +20,13 @@ My primary technical focus centers on **programming language development, C++ sy
 
 | Project | Description | Scope & Focus |
 | :--- | :--- | :--- |
-| **BlazeLang** | High-performance programming language featuring a C++ native runtime, package manager, and built-in AI/math capabilities. | Core Ecosystem |
-| **BlazeAI** | AI/ML initiatives exploring local execution and custom trainable model architectures. | Artificial Intelligence |
+| **BlazeLang (C++)** | High-performance proprietary programming language with native C++ core, 1B iterations in 0.3s. | Studio Proprietary Core |
+| **[BlazeLang-PY](https://github.com/shortcodeguy/BlazeLang-PY)** | Open-source v2.1 Python reference implementation evaluating 1B iterations in 3–4s. | Open Source Reference |
+| **[BlazeAI](https://github.com/shortcodeguy/BlazeAI)** | Local CPU-optimized AI engine running DeepSeek-R1 and Qwen with zero hardcoded responses. | Artificial Intelligence |
 | **PM Math** | Mathematics computation and learning platform featuring NCERT-aligned content and AI tutoring tools. | EdTech & Scientific Computing |
 | **Blaze Chat** | Real-time messaging platform built with modern web technologies and Firebase infrastructure. | Web Systems |
-| **Blaze Games** | Lightweight multiplayer gaming platform featuring real-time state synchronization. | Interactive Software |
+| **[BlazeForge 2D](https://github.com/shortcodeguy/BlazeForge-2d_Game_Engine)** | Lightweight 2D game engine written in Python for rapid game prototyping. | Interactive Software |
 | **NeuraLang** | Experimental programming language investigating first-class neural network primitives. | Language Research |
-| **NeuraAS** | Advanced AI and software architecture experiments within the ShortCodeGuy ecosystem. | Systems Research |
 
 ---
 
@@ -34,10 +34,11 @@ My primary technical focus centers on **programming language development, C++ sy
 
 BlazeLang represents a core long-term engineering effort.
 
-The project evolved from an initial Python prototype into a **C++-based native implementation**, designed for fast execution, minimal overhead, and extensibility.
+The project evolved from an initial Python prototype (**BlazeLang 2.1 PY**) into a **C++-based native implementation (BlazeLang 2.5)**, designed for fast execution, minimal overhead, and extensibility.
 
 ### Key Ecosystem Components:
-* **Native Runtime**: C++ interpreter and execution core.
+* **Native Runtime**: Proprietary C++ interpreter and execution core.
+* **Python Reference Edition**: Open-source v2.1 Python implementation for language research and syntax testing.
 * **Integrated Capabilities**: Native HTTP networking, mathematical computing modules, and AI primitives without relying entirely on external frameworks.
 * **Developer Tooling**: Built-in package manager, test runner, and package registry infrastructure.
 
@@ -77,6 +78,6 @@ Learning, experimenting, and building continuously. Projects are treated as ongo
 ### Contact & Links
 
 * **GitHub**: [@shortcodeguy](https://github.com/shortcodeguy)
-* **Email**: [shortcodeguystudio@gmail.com](mailto:shortcodeguystudio.netlify.app)
+* **Email**: [shortcodeguystudio@gmail.com](mailto:shortcodeguystudio@gmail.com)
 * **Website**: [shortcodeguystudio.netlify.app](https://shortcodeguystudio.netlify.app)
 * **BlazeLang Documentation**: [blazelang.web.app](https://blazelang.web.app)
