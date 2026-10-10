@@ -24,10 +24,8 @@ My primary technical focus centers on **programming language development, C++ sy
 | **[BlazeLang-PY](https://github.com/shortcodeguy/BlazeLang-PY)** | Open-source v2.1 Python reference implementation evaluating 1B iterations in 3–4s. | Open Source Reference |
 | **[BlazeAI](https://github.com/shortcodeguy/BlazeAI)** | Local CPU-optimized AI engine running DeepSeek-R1 and Qwen with zero hardcoded responses. | Artificial Intelligence |
 | **[Black Hole Research](https://github.com/shortcodeguy/black-hole-research)** | Technical synthesis paper: *"Beyond the Sci-Fi Myth: What Black Holes Actually Are — and What We Still Don't Know"*. | Astrophysics Research |
-| **PM Math** | Mathematics computation and learning platform featuring NCERT-aligned content and AI tutoring tools. | EdTech & Scientific Computing |
 | **Blaze Chat** | Real-time messaging platform built with modern web technologies and Firebase infrastructure. | Web Systems |
 | **[BlazeForge 2D](https://github.com/shortcodeguy/BlazeForge-2d_Game_Engine)** | Lightweight 2D game engine written in Python for rapid game prototyping. | Interactive Software |
-| **NeuraLang** | Experimental programming language investigating first-class neural network primitives. | Language Research |
 
 ---
 
@@ -37,27 +35,28 @@ BlazeLang represents a core long-term engineering effort.
 
 The project evolved from an initial Python prototype (**BlazeLang 2.1 PY**) into a **C++-based native implementation (BlazeLang 2.5)**, designed for fast execution, minimal overhead, and extensibility.
 
-### Key Ecosystem Components:
-* **Native Runtime**: Proprietary C++ interpreter and execution core.
-* **Python Reference Edition**: Open-source v2.1 Python implementation for language research and syntax testing.
-* **Integrated Capabilities**: Native HTTP networking, mathematical computing modules, and AI primitives without relying entirely on external frameworks.
-* **Developer Tooling**: Built-in package manager, test runner, and package registry infrastructure.
+### Key Ecosystem Components
+
+- **Native Runtime:** Proprietary C++ interpreter and execution core.
+- **Python Reference Edition:** Open-source v2.1 Python implementation for language research and syntax testing.
+- **Integrated Capabilities:** Native HTTP networking, mathematical computing modules, and AI primitives without relying entirely on external frameworks.
+- **Developer Tooling:** Built-in package manager, test runner, and package registry infrastructure.
 
 ---
 
 ## Technologies & Core Competencies
 
-* **Languages**: C++, Python, JavaScript, HTML, CSS, BlazeLang
-* **Technical Domains**:
-  * Programming language development & runtimes
-  * C++ systems programming
-  * Artificial intelligence & machine learning (Local AI, Neural Networks)
-  * Astrophysics & scientific computing
-  * Web application development
-  * Mathematics & computational modeling
-  * Game development & interactive software
-  * Developer tools & software architecture
-  * Performance optimization & open-source software
+- **Languages:** C++, Python, JavaScript, HTML, CSS, BlazeLang
+- **Technical Domains:**
+  - Programming language development & runtimes
+  - C++ systems programming
+  - Artificial intelligence & machine learning (Local AI, Neural Networks)
+  - Astrophysics & scientific computing
+  - Web application development
+  - Mathematics & computational modeling
+  - Game development & interactive software
+  - Developer tools & software architecture
+  - Performance optimization & open-source software
 
 ---
 
@@ -79,7 +78,7 @@ Learning, experimenting, and building continuously. Projects are treated as ongo
 
 ### Contact & Links
 
-* **GitHub**: [@shortcodeguy](https://github.com/shortcodeguy)
-* **Email**: [shortcodeguystudio@gmail.com](mailto:shortcodeguystudio@gmail.com)
-* **Website**: [shortcodeguystudio.netlify.app](https://shortcodeguystudio.netlify.app)
-* **BlazeLang Documentation**: [blazelang.web.app](https://blazelang.web.app)
+- **GitHub:** [@shortcodeguy](https://github.com/shortcodeguy)
+- **Email:** [shortcodeguystudio@gmail.com](mailto:shortcodeguystudio@gmail.com)
+- **Website:** [shortcodeguystudio.netlify.app](https://shortcodeguystudio.netlify.app)
+- **BlazeLang Documentation:** [blazelang.web.app](https://blazelang.web.app)
